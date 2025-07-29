@@ -1,0 +1,9 @@
+{
+  "name": "hubspot-app-functions",
+  "version": "1.0.0",
+  "description": "HubSpot app functions",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}

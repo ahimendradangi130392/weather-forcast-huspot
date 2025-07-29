@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Weather Forecast",
+    "uid": "weather_forecast_app",
+    "location": "crm.record.sidebar",
+    "module": {
+      "file": "Extension.tsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "hubspot-weather-extension",
+  "version": "1.0.0",
+  "description": "HubSpot CRM UI Extension for weather display",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app/extensions/__tests__/weather.test.js",
+    "test:validate": "npm run test",
+    "test:all": "npm run test",
+    "dev": "cd src/app/extensions && npm run dev",
+    "build": "cd src/app/extensions && npm run check",
+    "lint": "cd src/app/extensions && npm run lint",
+    "lint:fix": "cd src/app/extensions && npm run lint:fix"
+  },
+  "keywords": [
+    "hubspot",
+    "crm",
+    "weather",
+    "extension",
+    "react",
+    "typescript"
+  ],
+  "author": "Assessment Project",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+} 

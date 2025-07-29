@@ -1,0 +1,16 @@
+{
+  "appFunctions": {
+    "fetchAssociations": {
+      "file": "fetchAssociations.js",
+      "secrets": []
+    },
+    "fetchWeather": {
+      "file": "fetchWeather.js",
+      "secrets": ["WEATHER_API_KEY"]
+    },
+    "fetchIPLocation": {
+      "file": "fetchIPLocation.js",
+      "secrets": []
+    }
+  }
+}
